@@ -21,8 +21,8 @@ Testing the server and client
 
 ## PROGRAM:
 ```
-Name : Naveenaa A K
-Register No : 212222230094
+Name : Amrutha varshni
+Register No : 212222040007
 ```
 #### Server Code:
 ```
